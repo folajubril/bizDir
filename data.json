@@ -1,0 +1,23 @@
+{
+   "company" : [{
+     "id" : "1",
+     "business_name" : "INITS Ltd",
+     "Category": "IT Services",
+     "address" : "16, majaro street",
+     "description" : " "
+   },
+   {
+    "id" : "2",
+    "business_name" : "Anakle",
+    "Category": "Digital Agency",
+    "address" : " ",
+    "description" : " "
+   },
+   {
+    "id" : "3",
+    "business_name" : "Paystack",
+    "Category": "Payment",
+    "address" : " ",
+    "description" : " "
+   }
+   ]}
